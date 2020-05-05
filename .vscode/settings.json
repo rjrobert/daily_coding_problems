@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/robert/.local/share/virtualenvs/daily_coding_problems-VwU2FBg1/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
